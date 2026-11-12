@@ -520,10 +520,36 @@
    "map_names": [
     "Canary Cave"
    ],
-   "tris": 1012,
+   "tris": 352,
    "opa": "0x1D27",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 184,
+   "crack_samples": 40984044535,
+   "crack_floats": 447023000,
+   "spots": 447023000,
+   "shown": 250578,
+   "cats": {
+    "wall": 137260748,
+    "walk": 5072037,
+    "eject": 279636037,
+    "lag": 699761,
+    "jump": 2104929,
+    "stuck": 22249488
+   },
+   "cats_flat": {
+    "wall": 3195785,
+    "walk": 3346690,
+    "eject": 97462832,
+    "lag": 11878,
+    "jump": 41669,
+    "stuck": 35428
+   },
+   "holds": 5537640,
+   "void": 2874486,
+   "every": true,
+   "cells": 250578,
+   "bytes": 1513433
   },
   {
    "map": "0xDC",
