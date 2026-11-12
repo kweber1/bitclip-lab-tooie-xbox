@@ -479,10 +479,36 @@
    "map_names": [
     "Toxic Gas Cave"
    ],
-   "tris": 723,
+   "tris": 262,
    "opa": "0x1D2F",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 141,
+   "crack_samples": 25985864492,
+   "crack_floats": 190168867,
+   "spots": 190168867,
+   "shown": 157689,
+   "cats": {
+    "wall": 11261032,
+    "walk": 5199052,
+    "eject": 144044515,
+    "lag": 598680,
+    "jump": 1988850,
+    "stuck": 27076738
+   },
+   "cats_flat": {
+    "wall": 2268303,
+    "walk": 3176577,
+    "eject": 55869657,
+    "lag": 7811,
+    "jump": 32535,
+    "stuck": 245
+   },
+   "holds": 4430918,
+   "void": 3257873,
+   "every": true,
+   "cells": 157689,
+   "bytes": 1202709
   },
   {
    "map": "0xDB",
