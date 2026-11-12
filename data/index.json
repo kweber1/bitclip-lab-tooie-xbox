@@ -595,10 +595,36 @@
     "Crazy Castle Stockade",
     "Crazy Castle SoP"
    ],
-   "tris": 1263,
+   "tris": 775,
    "opa": "0x1D39",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 262,
+   "crack_samples": 32608638496,
+   "crack_floats": 477413071,
+   "spots": 477413071,
+   "shown": 425283,
+   "cats": {
+    "walk": 23051680,
+    "jump": 371685,
+    "eject": 138398409,
+    "stuck": 99370562,
+    "lag": 76020,
+    "wall": 216144715
+   },
+   "cats_flat": {
+    "wall": 201657760,
+    "eject": 76981630,
+    "walk": 22121199,
+    "lag": 57785,
+    "jump": 305317,
+    "stuck": 8111
+   },
+   "holds": 11289083,
+   "void": 21672931,
+   "every": true,
+   "cells": 425283,
+   "bytes": 2668461
   },
   {
    "map": "0xE2",
