@@ -2103,10 +2103,36 @@
    "map_names": [
     "Targitzan Temple Lobby"
    ],
-   "tris": 856,
+   "tris": 383,
    "opa": "0x1D17",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 163,
+   "crack_samples": 28691039083,
+   "crack_floats": 97846602,
+   "spots": 97846602,
+   "shown": 113149,
+   "cats": {
+    "wall": 1073546,
+    "eject": 88462814,
+    "stuck": 1906985,
+    "walk": 6043779,
+    "lag": 125916,
+    "jump": 233562
+   },
+   "cats_flat": {
+    "eject": 87821294,
+    "walk": 6043713,
+    "lag": 125913,
+    "jump": 233561,
+    "wall": 596115,
+    "stuck": 484387
+   },
+   "holds": 283019,
+   "void": 5911113,
+   "every": true,
+   "cells": 113149,
+   "bytes": 709140
   },
   {
    "map": "0x17B",
