@@ -2046,10 +2046,35 @@
    "map_names": [
     "Banjo's House"
    ],
-   "tris": 825,
+   "tris": 424,
    "opa": "0x1D08",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 92,
+   "crack_samples": 15976956429,
+   "crack_floats": 125335802,
+   "spots": 125335802,
+   "shown": 50891,
+   "cats": {
+    "wall": 13077516,
+    "walk": 5274558,
+    "stuck": 1208151,
+    "eject": 104999328,
+    "lag": 163395,
+    "jump": 612854
+   },
+   "cats_flat": {
+    "wall": 3617550,
+    "walk": 3865284,
+    "eject": 79786609,
+    "lag": 81928,
+    "jump": 418531
+   },
+   "holds": 1095350,
+   "void": 3865284,
+   "every": true,
+   "cells": 50891,
+   "bytes": 380352
   },
   {
    "map": "0x177",
