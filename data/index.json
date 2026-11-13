@@ -2288,10 +2288,36 @@
    "map_names": [
     "Heggy's Egg Shed"
    ],
-   "tris": 1663,
+   "tris": 611,
    "opa": "0x1DC7",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 415,
+   "crack_samples": 48116205942,
+   "crack_floats": 900400984,
+   "spots": 900400984,
+   "shown": 260057,
+   "cats": {
+    "wall": 4583128,
+    "stuck": 60009100,
+    "eject": 814772941,
+    "lag": 241162,
+    "jump": 1211964,
+    "walk": 19582689
+   },
+   "cats_flat": {
+    "wall": 969006,
+    "eject": 784197692,
+    "jump": 1177244,
+    "lag": 218542,
+    "walk": 19578052,
+    "stuck": 1330612
+   },
+   "holds": 19092455,
+   "void": 19239908,
+   "every": true,
+   "cells": 260057,
+   "bytes": 1643252
   },
   {
    "map": "0x151",
