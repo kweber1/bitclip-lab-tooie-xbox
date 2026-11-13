@@ -817,10 +817,36 @@
    "map_names": [
     "Dodgem Lobby"
    ],
-   "tris": 1929,
+   "tris": 655,
    "opa": "0x1D41",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 103,
+   "crack_samples": 20314915362,
+   "crack_floats": 102876398,
+   "spots": 102876398,
+   "shown": 76418,
+   "cats": {
+    "wall": 2105013,
+    "stuck": 91391,
+    "eject": 93812391,
+    "jump": 603322,
+    "walk": 5990955,
+    "lag": 273326
+   },
+   "cats_flat": {
+    "wall": 2072351,
+    "stuck": 66217,
+    "eject": 93805550,
+    "jump": 528588,
+    "walk": 5975220,
+    "lag": 263165
+   },
+   "holds": 390512,
+   "void": 5661383,
+   "every": true,
+   "cells": 76418,
+   "bytes": 287175
   },
   {
    "map": "0xE1",
