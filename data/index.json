@@ -1960,10 +1960,36 @@
    "map_names": [
     "Styracosaurus Family Cave"
    ],
-   "tris": 2494,
+   "tris": 1024,
    "opa": "0x1D68",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 769,
+   "crack_samples": 74164032334,
+   "crack_floats": 626943981,
+   "spots": 626943981,
+   "shown": 736444,
+   "cats": {
+    "eject": 288575520,
+    "jump": 1329046,
+    "walk": 19033657,
+    "lag": 477105,
+    "wall": 200041603,
+    "stuck": 117487050
+   },
+   "cats_flat": {
+    "eject": 6082188,
+    "jump": 153486,
+    "walk": 1840795,
+    "lag": 88604,
+    "wall": 524982,
+    "stuck": 12063
+   },
+   "holds": 2793742,
+   "void": 1787106,
+   "every": true,
+   "cells": 736444,
+   "bytes": 4227296
   },
   {
    "map": "0x119",
