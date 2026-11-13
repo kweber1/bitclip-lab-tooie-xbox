@@ -3126,10 +3126,36 @@
    "map_names": [
     "Gatehouse"
    ],
-   "tris": 2379,
+   "tris": 1036,
    "opa": "0x1DBC",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 213,
+   "crack_samples": 50342642840,
+   "crack_floats": 449824250,
+   "spots": 449824250,
+   "shown": 237696,
+   "cats": {
+    "wall": 2379759,
+    "walk": 10932098,
+    "eject": 433245427,
+    "lag": 400611,
+    "jump": 1753179,
+    "stuck": 1113176
+   },
+   "cats_flat": {
+    "wall": 981776,
+    "walk": 10904544,
+    "eject": 432954587,
+    "lag": 385983,
+    "jump": 1336596,
+    "stuck": 2049
+   },
+   "holds": 5024411,
+   "void": 10880714,
+   "every": true,
+   "cells": 237696,
+   "bytes": 1231767
   },
   {
    "map": "0x15F",
