@@ -3004,10 +3004,36 @@
     "Slightly Sacred Chamber",
     "Targitzan Boss"
    ],
-   "tris": 2271,
+   "tris": 798,
    "opa": "0x1D15",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 515,
+   "crack_samples": 72406494132,
+   "crack_floats": 306894549,
+   "spots": 306894549,
+   "shown": 460498,
+   "cats": {
+    "wall": 1010520,
+    "walk": 23466977,
+    "eject": 274921599,
+    "lag": 234859,
+    "jump": 1436458,
+    "stuck": 5824136
+   },
+   "cats_flat": {
+    "wall": 1010520,
+    "walk": 23466977,
+    "eject": 267665547,
+    "lag": 234859,
+    "jump": 1436458,
+    "stuck": 630
+   },
+   "holds": 1383243,
+   "void": 23460979,
+   "every": true,
+   "cells": 460498,
+   "bytes": 2593684
   },
   {
    "map": "0x179",
