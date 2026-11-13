@@ -3488,10 +3488,36 @@
     "Sea Bottom Cavern",
     "Submarine"
    ],
-   "tris": 2477,
+   "tris": 1036,
    "opa": "0x1D60",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 284,
+   "crack_samples": 32376323889,
+   "crack_floats": 175977069,
+   "spots": 175977069,
+   "shown": 937191,
+   "cats": {
+    "wall": 42715564,
+    "eject": 79261665,
+    "stuck": 38022532,
+    "walk": 12099342,
+    "jump": 1717714,
+    "lag": 2160252
+   },
+   "cats_flat": {
+    "eject": 824518,
+    "stuck": 2255,
+    "wall": 63,
+    "jump": 1,
+    "lag": 1,
+    "walk": 47160
+   },
+   "holds": 1818756,
+   "void": 48193,
+   "every": true,
+   "cells": 937191,
+   "bytes": 4961407
   },
   {
    "map": "0x184",
