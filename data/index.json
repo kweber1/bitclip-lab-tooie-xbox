@@ -2050,10 +2050,36 @@
     "Red Jinjo House",
     "White Jinjo House"
    ],
-   "tris": 1277,
+   "tris": 386,
    "opa": "0x1DCF",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 133,
+   "crack_samples": 35622494859,
+   "crack_floats": 540004116,
+   "spots": 540004116,
+   "shown": 138688,
+   "cats": {
+    "wall": 516454,
+    "walk": 36171541,
+    "eject": 491435741,
+    "lag": 1637598,
+    "jump": 6277460,
+    "stuck": 3965322
+   },
+   "cats_flat": {
+    "wall": 476177,
+    "walk": 36171541,
+    "eject": 489826410,
+    "lag": 1637598,
+    "jump": 6277457,
+    "stuck": 23056
+   },
+   "holds": 2671487,
+   "void": 36171541,
+   "every": true,
+   "cells": 138688,
+   "bytes": 873665
   },
   {
    "map": "0x14F",
