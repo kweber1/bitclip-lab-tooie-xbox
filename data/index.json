@@ -630,10 +630,36 @@
    "map_names": [
     "Power Hut"
    ],
-   "tris": 1947,
+   "tris": 719,
    "opa": "0x1D23",
    "xlu": "0x1D29",
-   "done": false
+   "done": true,
+   "seams": 290,
+   "crack_samples": 36270769892,
+   "crack_floats": 413127968,
+   "spots": 413127968,
+   "shown": 150268,
+   "cats": {
+    "wall": 7073492,
+    "walk": 10780679,
+    "jump": 438995,
+    "eject": 386678739,
+    "lag": 246545,
+    "stuck": 7909518
+   },
+   "cats_flat": {
+    "wall": 2466990,
+    "walk": 6513328,
+    "jump": 410910,
+    "eject": 369192726,
+    "lag": 243407,
+    "stuck": 320543
+   },
+   "holds": 1810327,
+   "void": 22,
+   "every": true,
+   "cells": 150268,
+   "bytes": 852924
   },
   {
    "map": "0xD6",
