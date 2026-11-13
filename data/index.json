@@ -2184,10 +2184,29 @@
    "map_names": [
     "Water Supply Pipe"
    ],
-   "tris": 2413,
+   "tris": 1070,
    "opa": "0x1D5F",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 544,
+   "crack_samples": 45526680773,
+   "crack_floats": 248443365,
+   "spots": 248443365,
+   "shown": 190434,
+   "cats": {
+    "wall": 215133760,
+    "stuck": 23451079,
+    "eject": 9570972,
+    "jump": 152875,
+    "lag": 9944,
+    "walk": 124735
+   },
+   "cats_flat": {},
+   "holds": 18849455,
+   "void": 97369,
+   "every": true,
+   "cells": 190434,
+   "bytes": 1070099
   },
   {
    "map": "0x126",
