@@ -3127,10 +3127,36 @@
    "map_names": [
     "Zombie Throne"
    ],
-   "tris": 1950,
+   "tris": 796,
    "opa": "0x1DD2",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 264,
+   "crack_samples": 50280711474,
+   "crack_floats": 412452660,
+   "spots": 412452660,
+   "shown": 131308,
+   "cats": {
+    "wall": 4907696,
+    "stuck": 210451924,
+    "walk": 13808303,
+    "lag": 175623,
+    "jump": 112203,
+    "eject": 182996911
+   },
+   "cats_flat": {
+    "stuck": 1644,
+    "wall": 4338448,
+    "walk": 13807897,
+    "lag": 172271,
+    "jump": 109159,
+    "eject": 57202820
+   },
+   "holds": 254487,
+   "void": 13807897,
+   "every": true,
+   "cells": 131308,
+   "bytes": 355928
   },
   {
    "map": "0x181",
