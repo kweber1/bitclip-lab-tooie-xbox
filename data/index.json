@@ -1271,10 +1271,36 @@
    "map_names": [
     "Pawno"
    ],
-   "tris": 2538,
+   "tris": 935,
    "opa": "0x1D59",
    "xlu": "0x1D5A",
-   "done": false
+   "done": true,
+   "seams": 283,
+   "crack_samples": 31308908260,
+   "crack_floats": 244165695,
+   "spots": 244165695,
+   "shown": 59009,
+   "cats": {
+    "wall": 43339256,
+    "eject": 184601473,
+    "walk": 9956120,
+    "jump": 397329,
+    "lag": 231316,
+    "stuck": 5640201
+   },
+   "cats_flat": {
+    "wall": 12919283,
+    "eject": 183752993,
+    "walk": 9429749,
+    "jump": 211906,
+    "lag": 190867,
+    "stuck": 993302
+   },
+   "holds": 10915265,
+   "void": 7562099,
+   "every": true,
+   "cells": 59009,
+   "bytes": 213527
   },
   {
    "map": "0xF1",
