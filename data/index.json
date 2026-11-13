@@ -641,10 +641,36 @@
    "map_names": [
     "Generator Caverns"
    ],
-   "tris": 2106,
+   "tris": 993,
    "opa": "0x1D22",
    "xlu": "0x1D2E",
-   "done": false
+   "done": true,
+   "seams": 144,
+   "crack_samples": 15948141468,
+   "crack_floats": 87923498,
+   "spots": 87923498,
+   "shown": 178965,
+   "cats": {
+    "wall": 1837769,
+    "eject": 53876895,
+    "walk": 647489,
+    "jump": 963583,
+    "stuck": 30506993,
+    "lag": 90769
+   },
+   "cats_flat": {
+    "walk": 213104,
+    "jump": 18405,
+    "lag": 25750,
+    "eject": 2144907,
+    "wall": 847879,
+    "stuck": 546
+   },
+   "holds": 667304,
+   "void": 621037,
+   "every": true,
+   "cells": 178965,
+   "bytes": 1102077
   },
   {
    "map": "0xD4",
