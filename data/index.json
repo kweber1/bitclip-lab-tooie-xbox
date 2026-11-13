@@ -1607,10 +1607,36 @@
    "map_names": [
     "Terry's Nest"
    ],
-   "tris": 1887,
+   "tris": 820,
    "opa": "0x1D6B",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 350,
+   "crack_samples": 53309794356,
+   "crack_floats": 568860409,
+   "spots": 568860409,
+   "shown": 609896,
+   "cats": {
+    "wall": 216406170,
+    "walk": 32897437,
+    "lag": 851185,
+    "jump": 7382688,
+    "eject": 234345643,
+    "stuck": 76977286
+   },
+   "cats_flat": {
+    "walk": 682365,
+    "eject": 107090237,
+    "jump": 17917,
+    "lag": 13743,
+    "wall": 7073507,
+    "stuck": 36123
+   },
+   "holds": 48978130,
+   "void": 665943,
+   "every": true,
+   "cells": 609896,
+   "bytes": 3630677
   },
   {
    "map": "0x114",
