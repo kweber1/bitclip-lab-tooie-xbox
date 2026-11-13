@@ -1422,10 +1422,36 @@
    "map_names": [
     "Floor 2 Electromagnetic Chamber"
    ],
-   "tris": 2027,
+   "tris": 803,
    "opa": "0x1D80",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 318,
+   "crack_samples": 47022454556,
+   "crack_floats": 249609971,
+   "spots": 249609971,
+   "shown": 214562,
+   "cats": {
+    "wall": 3542338,
+    "walk": 17075372,
+    "eject": 224789209,
+    "jump": 1326319,
+    "lag": 943084,
+    "stuck": 1933649
+   },
+   "cats_flat": {
+    "wall": 2384448,
+    "walk": 17075224,
+    "eject": 219853320,
+    "jump": 1300306,
+    "lag": 827564,
+    "stuck": 14105
+   },
+   "holds": 539301,
+   "void": 15422905,
+   "every": true,
+   "cells": 214562,
+   "bytes": 874167
   },
   {
    "map": "0x108",
