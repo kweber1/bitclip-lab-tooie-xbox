@@ -1503,10 +1503,36 @@
    "map_names": [
     "Blubber's Shop"
    ],
-   "tris": 2628,
+   "tris": 924,
    "opa": "0x1D5B",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 300,
+   "crack_samples": 35714361144,
+   "crack_floats": 37252952,
+   "spots": 37252952,
+   "shown": 98645,
+   "cats": {
+    "wall": 7778215,
+    "walk": 9123388,
+    "eject": 14121331,
+    "lag": 887437,
+    "stuck": 4835513,
+    "jump": 507068
+   },
+   "cats_flat": {
+    "wall": 5813311,
+    "walk": 9067175,
+    "eject": 13668254,
+    "lag": 874941,
+    "stuck": 379552,
+    "jump": 412675
+   },
+   "holds": 1715792,
+   "void": 7877955,
+   "every": true,
+   "cells": 98645,
+   "bytes": 500412
   },
   {
    "map": "0x100",
