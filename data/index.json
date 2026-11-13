@@ -529,10 +529,36 @@
    "map_names": [
     "Power Hut Basement"
    ],
-   "tris": 2154,
+   "tris": 834,
    "opa": "0x1D1E",
    "xlu": "0x1D2B",
-   "done": false
+   "done": true,
+   "seams": 136,
+   "crack_samples": 11373151097,
+   "crack_floats": 37283542,
+   "spots": 37283542,
+   "shown": 99770,
+   "cats": {
+    "walk": 2358366,
+    "eject": 24879571,
+    "jump": 201659,
+    "lag": 41947,
+    "stuck": 7200182,
+    "wall": 2601817
+   },
+   "cats_flat": {
+    "walk": 2129281,
+    "eject": 18143005,
+    "jump": 117824,
+    "lag": 41344,
+    "stuck": 18129,
+    "wall": 105180
+   },
+   "holds": 267098,
+   "void": 2309870,
+   "every": true,
+   "cells": 99770,
+   "bytes": 619006
   },
   {
    "map": "0xD0",
