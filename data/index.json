@@ -1415,10 +1415,34 @@
    "map_names": [
     "Inside Big Top"
    ],
-   "tris": 2415,
+   "tris": 1068,
    "opa": "0x1D43",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 637,
+   "crack_samples": 66405990119,
+   "crack_floats": 218641548,
+   "spots": 218641548,
+   "shown": 529286,
+   "cats": {
+    "wall": 331738,
+    "lag": 526622,
+    "walk": 29632206,
+    "eject": 187192966,
+    "jump": 958016
+   },
+   "cats_flat": {
+    "wall": 331738,
+    "lag": 526622,
+    "walk": 29632206,
+    "eject": 187192966,
+    "jump": 958016
+   },
+   "holds": 602283,
+   "void": 29632206,
+   "every": true,
+   "cells": 529286,
+   "bytes": 1047922
   },
   {
    "map": "0xFA",
