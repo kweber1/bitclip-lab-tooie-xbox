@@ -2370,10 +2370,36 @@
    "map_names": [
     "Chilli Billi"
    ],
-   "tris": 2348,
+   "tris": 1094,
    "opa": "0x1DA5",
    "xlu": "0x1DA9",
-   "done": false
+   "done": true,
+   "seams": 428,
+   "crack_samples": 63239137703,
+   "crack_floats": 788849971,
+   "spots": 788849971,
+   "shown": 824273,
+   "cats": {
+    "wall": 267703831,
+    "walk": 79761389,
+    "lag": 4879821,
+    "jump": 17994038,
+    "eject": 415373891,
+    "stuck": 3137001
+   },
+   "cats_flat": {
+    "walk": 79586751,
+    "lag": 4857211,
+    "jump": 17819860,
+    "eject": 411544631,
+    "stuck": 42399,
+    "wall": 5861387
+   },
+   "holds": 16661761,
+   "void": 79407779,
+   "every": true,
+   "cells": 824273,
+   "bytes": 4677043
   },
   {
    "map": "0x12C",
