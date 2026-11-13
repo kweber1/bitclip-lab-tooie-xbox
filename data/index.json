@@ -1301,10 +1301,38 @@
    "map_names": [
     "Terrydactyland"
    ],
-   "tris": 18383,
+   "tris": 9006,
    "opa": "0x1D66",
    "xlu": "0x1D72",
-   "done": false
+   "done": true,
+   "seams": 3603,
+   "crack_samples": 173421440717,
+   "crack_floats": 779582318,
+   "spots": 779582318,
+   "shown": 3631134,
+   "cats": {
+    "wall": 305216792,
+    "walk": 46355756,
+    "jump": 8970561,
+    "eject": 266453013,
+    "lag": 17483698,
+    "stuck": 124992337,
+    "water": 10110161
+   },
+   "cats_flat": {
+    "wall": 2276286,
+    "walk": 6092783,
+    "jump": 196522,
+    "eject": 16613284,
+    "lag": 133640,
+    "stuck": 16666,
+    "water": 1573517
+   },
+   "holds": 6061308,
+   "void": 4893729,
+   "every": true,
+   "cells": 3631134,
+   "bytes": 16880085
   },
   {
    "map": "0x113",
