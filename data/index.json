@@ -2100,10 +2100,37 @@
    "map_names": [
     "Wumba's Wigwam (big)"
    ],
-   "tris": 2501,
+   "tris": 1045,
    "opa": "0x1D03",
    "xlu": "0x1D06",
-   "done": false
+   "done": true,
+   "seams": 451,
+   "crack_samples": 70230059641,
+   "crack_floats": 234794337,
+   "spots": 234794337,
+   "shown": 460273,
+   "cats": {
+    "wall": 11264281,
+    "eject": 161831318,
+    "stuck": 58529548,
+    "walk": 1478323,
+    "lag": 256693,
+    "jump": 1431667,
+    "water": 2507
+   },
+   "cats_flat": {
+    "wall": 51927,
+    "eject": 1949359,
+    "walk": 70412,
+    "stuck": 124980,
+    "jump": 22039,
+    "lag": 147024
+   },
+   "holds": 4202883,
+   "void": 93,
+   "every": true,
+   "cells": 460273,
+   "bytes": 2725381
   },
   {
    "map": "0x123",
