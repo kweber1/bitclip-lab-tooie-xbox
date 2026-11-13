@@ -1789,10 +1789,35 @@
     "Kickball 3",
     "Kickball 2"
    ],
-   "tris": 1472,
+   "tris": 576,
    "opa": "0x1DA7",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 576,
+   "crack_samples": 79803411352,
+   "crack_floats": 211740881,
+   "spots": 211740881,
+   "shown": 183091,
+   "cats": {
+    "walk": 18408426,
+    "eject": 161709156,
+    "stuck": 6965741,
+    "jump": 2309241,
+    "lag": 566390,
+    "wall": 21781927
+   },
+   "cats_flat": {
+    "eject": 153531991,
+    "lag": 373739,
+    "walk": 17333174,
+    "jump": 1940392,
+    "wall": 5959865
+   },
+   "holds": 3504650,
+   "void": 17340540,
+   "every": true,
+   "cells": 183091,
+   "bytes": 1104218
   },
   {
    "map": "0x131",
