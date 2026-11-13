@@ -434,10 +434,35 @@
    "map_names": [
     "Waterfall Cavern"
    ],
-   "tris": 1495,
+   "tris": 652,
    "opa": "0x1D1D",
    "xlu": "0x1D26",
-   "done": false
+   "done": true,
+   "seams": 158,
+   "crack_samples": 27993406364,
+   "crack_floats": 367459739,
+   "spots": 367459739,
+   "shown": 263059,
+   "cats": {
+    "wall": 192925203,
+    "eject": 26924000,
+    "stuck": 40532338,
+    "walk": 55410,
+    "lag": 805,
+    "jump": 16659,
+    "water": 107005324
+   },
+   "cats_flat": {
+    "water": 2530351,
+    "wall": 340820,
+    "walk": 43861,
+    "eject": 38242
+   },
+   "holds": 20729,
+   "void": 43861,
+   "every": true,
+   "cells": 263059,
+   "bytes": 1540159
   },
   {
    "map": "0xCF",
