@@ -2393,10 +2393,36 @@
    "map_names": [
     "Another Digger Tunnel"
    ],
-   "tris": 1530,
+   "tris": 698,
    "opa": "0x1DCC",
    "xlu": "0x1DCD",
-   "done": false
+   "done": true,
+   "seams": 301,
+   "crack_samples": 47696762659,
+   "crack_floats": 249198800,
+   "spots": 249198800,
+   "shown": 540990,
+   "cats": {
+    "walk": 1285967,
+    "wall": 43482208,
+    "eject": 65896177,
+    "stuck": 138324949,
+    "water": 208193,
+    "jump": 1072,
+    "lag": 234
+   },
+   "cats_flat": {
+    "eject": 183169,
+    "jump": 1072,
+    "lag": 234,
+    "walk": 38504,
+    "wall": 795
+   },
+   "holds": 401960,
+   "void": 38504,
+   "every": true,
+   "cells": 540990,
+   "bytes": 3400991
   },
   {
    "map": "0x15C",
