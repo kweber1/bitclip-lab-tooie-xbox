@@ -1245,10 +1245,36 @@
    "map_names": [
     "Basement Repair Depot"
    ],
-   "tris": 1427,
+   "tris": 801,
    "opa": "0x1D8B",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 112,
+   "crack_samples": 6208807640,
+   "crack_floats": 26575164,
+   "spots": 26575164,
+   "shown": 56975,
+   "cats": {
+    "wall": 9661621,
+    "walk": 2159340,
+    "eject": 10029196,
+    "jump": 261507,
+    "stuck": 4076352,
+    "lag": 387148
+   },
+   "cats_flat": {
+    "wall": 3727577,
+    "walk": 1456825,
+    "eject": 8200237,
+    "jump": 96154,
+    "lag": 6526,
+    "stuck": 7168
+   },
+   "holds": 3034414,
+   "void": 880521,
+   "every": true,
+   "cells": 56975,
+   "bytes": 298641
   },
   {
    "map": "0x111",
