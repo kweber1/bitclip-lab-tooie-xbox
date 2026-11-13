@@ -2670,10 +2670,36 @@
    "map_names": [
     "Cauldron Keep Hag 1"
    ],
-   "tris": 1414,
+   "tris": 704,
    "opa": "0x1DBF",
    "xlu": "0x1DBA",
-   "done": false
+   "done": true,
+   "seams": 301,
+   "crack_samples": 36848338667,
+   "crack_floats": 213366612,
+   "spots": 213366612,
+   "shown": 306088,
+   "cats": {
+    "walk": 13856084,
+    "lag": 247472,
+    "eject": 196112261,
+    "stuck": 758461,
+    "jump": 502233,
+    "wall": 1890101
+   },
+   "cats_flat": {
+    "walk": 13841633,
+    "lag": 247469,
+    "eject": 193776450,
+    "stuck": 85171,
+    "jump": 483471,
+    "wall": 1811288
+   },
+   "holds": 1921781,
+   "void": 13636681,
+   "every": true,
+   "cells": 306088,
+   "bytes": 1326906
   },
   {
    "map": "0x1A6",
