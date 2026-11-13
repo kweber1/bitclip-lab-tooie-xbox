@@ -1665,10 +1665,38 @@
     "Icy Side",
     "Icy Side Still"
    ],
-   "tris": 17035,
+   "tris": 8438,
    "opa": "0x1D9B",
    "xlu": "0x1D9C",
-   "done": false
+   "done": true,
+   "seams": 4029,
+   "crack_samples": 171586149084,
+   "crack_floats": 1348084850,
+   "spots": 1348084850,
+   "shown": 4341528,
+   "cats": {
+    "walk": 87213087,
+    "stuck": 296909242,
+    "lag": 15435654,
+    "jump": 21448142,
+    "eject": 596669414,
+    "wall": 329927780,
+    "water": 481531
+   },
+   "cats_flat": {
+    "wall": 7041968,
+    "eject": 59620036,
+    "jump": 218729,
+    "lag": 76969,
+    "walk": 7938787,
+    "stuck": 378152,
+    "water": 34607
+   },
+   "holds": 37718497,
+   "void": 12215513,
+   "every": true,
+   "cells": 4341528,
+   "bytes": 22977193
   },
   {
    "map": "0x129",
