@@ -4305,10 +4305,36 @@
     "Jinjo Village",
     "Jingaling Temple Drain"
    ],
-   "tris": 11889,
+   "tris": 6979,
    "opa": "0x1DC1",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 4229,
+   "crack_samples": 220705808820,
+   "crack_floats": 2551178719,
+   "spots": 2551178719,
+   "shown": 5217925,
+   "cats": {
+    "eject": 736483730,
+    "stuck": 532102689,
+    "wall": 755687531,
+    "jump": 142617642,
+    "lag": 93958009,
+    "walk": 290329118
+   },
+   "cats_flat": {
+    "wall": 8397418,
+    "walk": 30735344,
+    "eject": 74326815,
+    "jump": 1486210,
+    "lag": 299801,
+    "stuck": 7433
+   },
+   "holds": 44355831,
+   "void": 37056967,
+   "every": true,
+   "cells": 5217925,
+   "bytes": 28092416
   },
   {
    "map": "0x143",
