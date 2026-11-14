@@ -477,10 +477,36 @@
    "map_names": [
     "Treasure Chamber"
    ],
-   "tris": 4808,
+   "tris": 2396,
    "opa": "0x1D13",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 774,
+   "crack_samples": 53428528076,
+   "crack_floats": 306184513,
+   "spots": 306184513,
+   "shown": 377862,
+   "cats": {
+    "walk": 9174701,
+    "stuck": 35724660,
+    "eject": 164169421,
+    "jump": 6088573,
+    "lag": 2176034,
+    "wall": 88851124
+   },
+   "cats_flat": {
+    "walk": 6859794,
+    "stuck": 51120,
+    "eject": 90409977,
+    "wall": 1764983,
+    "lag": 61876,
+    "jump": 280225
+   },
+   "holds": 469729,
+   "void": 6866439,
+   "every": true,
+   "cells": 377862,
+   "bytes": 2225939
   },
   {
    "map": "0xC6",
