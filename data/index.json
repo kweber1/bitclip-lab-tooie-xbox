@@ -2274,10 +2274,36 @@
    "map_names": [
     "Floor 4 Cable Room"
    ],
-   "tris": 4432,
+   "tris": 1703,
    "opa": "0x1D84",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1258,
+   "crack_samples": 91477164086,
+   "crack_floats": 658782111,
+   "spots": 658782111,
+   "shown": 879280,
+   "cats": {
+    "wall": 57656792,
+    "eject": 467073561,
+    "walk": 15780988,
+    "jump": 1378997,
+    "lag": 298913,
+    "stuck": 116592860
+   },
+   "cats_flat": {
+    "wall": 19669560,
+    "eject": 117046910,
+    "walk": 15780988,
+    "jump": 1365686,
+    "lag": 298898,
+    "stuck": 2785954
+   },
+   "holds": 8366589,
+   "void": 15780666,
+   "every": true,
+   "cells": 879280,
+   "bytes": 5219616
   },
   {
    "map": "0x10D",
