@@ -1570,10 +1570,36 @@
    "map_names": [
     "Haunted Cavern"
    ],
-   "tris": 4669,
+   "tris": 1352,
    "opa": "0x1D3E",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 323,
+   "crack_samples": 44403697513,
+   "crack_floats": 411474344,
+   "spots": 411474344,
+   "shown": 441393,
+   "cats": {
+    "eject": 367196546,
+    "stuck": 3247315,
+    "wall": 9266583,
+    "lag": 36654,
+    "jump": 279009,
+    "walk": 31448237
+   },
+   "cats_flat": {
+    "wall": 1848917,
+    "walk": 31379501,
+    "eject": 358092920,
+    "lag": 28680,
+    "jump": 196537,
+    "stuck": 18257
+   },
+   "holds": 3936218,
+   "void": 29027235,
+   "every": true,
+   "cells": 441393,
+   "bytes": 2583918
   },
   {
    "map": "0xEC",
