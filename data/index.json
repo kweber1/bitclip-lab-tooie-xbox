@@ -2252,10 +2252,36 @@
    "map_names": [
     "Stomping Plains"
    ],
-   "tris": 4131,
+   "tris": 2285,
    "opa": "0x1D71",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1491,
+   "crack_samples": 105301872263,
+   "crack_floats": 325454454,
+   "spots": 325454454,
+   "shown": 1467465,
+   "cats": {
+    "wall": 83240516,
+    "stuck": 14195058,
+    "eject": 191047333,
+    "jump": 2180442,
+    "lag": 765764,
+    "walk": 34025341
+   },
+   "cats_flat": {
+    "eject": 125977904,
+    "jump": 958540,
+    "lag": 417389,
+    "walk": 30774033,
+    "wall": 99393,
+    "stuck": 3555
+   },
+   "holds": 541321,
+   "void": 30406664,
+   "every": true,
+   "cells": 1467465,
+   "bytes": 7840511
   },
   {
    "map": "0x11B",
