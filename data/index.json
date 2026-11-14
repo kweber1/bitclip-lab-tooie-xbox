@@ -314,10 +314,35 @@
    "map_names": [
     "Columns Vault"
    ],
-   "tris": 2677,
+   "tris": 820,
    "opa": "0x1D0E",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 286,
+   "crack_samples": 34916935333,
+   "crack_floats": 135909722,
+   "spots": 135909722,
+   "shown": 434976,
+   "cats": {
+    "wall": 26556017,
+    "stuck": 13973184,
+    "eject": 77077474,
+    "walk": 17497810,
+    "lag": 143920,
+    "jump": 661317
+   },
+   "cats_flat": {
+    "eject": 38307178,
+    "walk": 17423433,
+    "lag": 143670,
+    "jump": 643440,
+    "wall": 4349350
+   },
+   "holds": 1715864,
+   "void": 17442239,
+   "every": true,
+   "cells": 434976,
+   "bytes": 2431160
   },
   {
    "map": "0xBB",
