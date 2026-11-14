@@ -2957,10 +2957,38 @@
    "map_names": [
     "Inside Mountain"
    ],
-   "tris": 5955,
+   "tris": 2899,
    "opa": "0x1D69",
    "xlu": "0x1D6A",
-   "done": false
+   "done": true,
+   "seams": 743,
+   "crack_samples": 60442186399,
+   "crack_floats": 813313671,
+   "spots": 813313671,
+   "shown": 891415,
+   "cats": {
+    "wall": 77226620,
+    "water": 1552056,
+    "eject": 407667566,
+    "walk": 13285124,
+    "lag": 10225351,
+    "jump": 23951153,
+    "stuck": 279405801
+   },
+   "cats_flat": {
+    "wall": 9971915,
+    "walk": 7250799,
+    "lag": 86590,
+    "jump": 171137,
+    "eject": 26108750,
+    "water": 1240561,
+    "stuck": 43024
+   },
+   "holds": 92256375,
+   "void": 7010070,
+   "every": true,
+   "cells": 891415,
+   "bytes": 4522875
   },
   {
    "map": "0x117",
