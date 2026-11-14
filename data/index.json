@@ -2886,10 +2886,37 @@
    "map_names": [
     "Trashcan"
    ],
-   "tris": 3317,
+   "tris": 1247,
    "opa": "0x1DB1",
    "xlu": "0x1DB2",
-   "done": false
+   "done": true,
+   "seams": 737,
+   "crack_samples": 62681412185,
+   "crack_floats": 507362935,
+   "spots": 507362935,
+   "shown": 571265,
+   "cats": {
+    "wall": 31298146,
+    "stuck": 100008381,
+    "eject": 362616349,
+    "lag": 642238,
+    "jump": 2580806,
+    "walk": 4666863,
+    "water": 5550152
+   },
+   "cats_flat": {
+    "wall": 517891,
+    "eject": 302261549,
+    "jump": 880171,
+    "lag": 121424,
+    "walk": 2275160,
+    "stuck": 186672
+   },
+   "holds": 27659630,
+   "void": 2081253,
+   "every": true,
+   "cells": 571265,
+   "bytes": 3455387
   },
   {
    "map": "0x138",
