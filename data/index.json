@@ -2501,10 +2501,36 @@
    "map_names": [
     "Floor 4"
    ],
-   "tris": 6754,
+   "tris": 3393,
    "opa": "0x1D7A",
    "xlu": "0x1D91",
-   "done": false
+   "done": true,
+   "seams": 794,
+   "crack_samples": 26754163989,
+   "crack_floats": 14047520,
+   "spots": 14047520,
+   "shown": 285532,
+   "cats": {
+    "wall": 3610079,
+    "walk": 2967099,
+    "stuck": 967144,
+    "eject": 6397249,
+    "jump": 84795,
+    "lag": 21154
+   },
+   "cats_flat": {
+    "wall": 2488996,
+    "walk": 2733870,
+    "stuck": 388351,
+    "eject": 5324692,
+    "jump": 25487,
+    "lag": 13201
+   },
+   "holds": 18673,
+   "void": 2493013,
+   "every": true,
+   "cells": 285532,
+   "bytes": 646348
   },
   {
    "map": "0x10C",
