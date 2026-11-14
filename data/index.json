@@ -4186,10 +4186,36 @@
     "Bottles' House",
     "Bottles' House Still"
    ],
-   "tris": 7189,
+   "tris": 3356,
    "opa": "0x1DD0",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1476,
+   "crack_samples": 48116586343,
+   "crack_floats": 190310436,
+   "spots": 190310436,
+   "shown": 527757,
+   "cats": {
+    "wall": 88746101,
+    "walk": 5391270,
+    "lag": 276065,
+    "jump": 2331422,
+    "eject": 70735588,
+    "stuck": 22829990
+   },
+   "cats_flat": {
+    "wall": 1566954,
+    "walk": 2845405,
+    "lag": 49268,
+    "jump": 177384,
+    "eject": 7996756,
+    "stuck": 28454
+   },
+   "holds": 2657355,
+   "void": 2813906,
+   "every": true,
+   "cells": 527757,
+   "bytes": 2719207
   },
   {
    "map": "0x144",
