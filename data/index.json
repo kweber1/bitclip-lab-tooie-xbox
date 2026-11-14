@@ -4039,10 +4039,36 @@
    "map_names": [
     "Trashcan"
    ],
-   "tris": 3302,
+   "tris": 1232,
    "opa": "0x1DB1",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 737,
+   "crack_samples": 62681412185,
+   "crack_floats": 618513620,
+   "spots": 618513620,
+   "shown": 606677,
+   "cats": {
+    "wall": 35629136,
+    "stuck": 118495122,
+    "eject": 455600814,
+    "lag": 648833,
+    "jump": 2598796,
+    "walk": 5540919
+   },
+   "cats_flat": {
+    "wall": 2296381,
+    "eject": 305501573,
+    "jump": 898161,
+    "lag": 128019,
+    "walk": 3149216,
+    "stuck": 371551
+   },
+   "holds": 27883160,
+   "void": 2955309,
+   "every": true,
+   "cells": 606677,
+   "bytes": 3637661
   },
   {
    "map": "0x187",
