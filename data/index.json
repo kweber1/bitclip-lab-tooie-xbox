@@ -2333,10 +2333,34 @@
    "map_names": [
     "Wumba's Wigwam"
    ],
-   "tris": 2671,
+   "tris": 1006,
    "opa": "0x1D00",
    "xlu": "0x1D07",
-   "done": false
+   "done": true,
+   "seams": 451,
+   "crack_samples": 63067335289,
+   "crack_floats": 186245094,
+   "spots": 186245094,
+   "shown": 196895,
+   "cats": {
+    "wall": 12136883,
+    "eject": 127806548,
+    "stuck": 17678262,
+    "water": 28618883,
+    "lag": 1291,
+    "walk": 3227
+   },
+   "cats_flat": {
+    "wall": 226284,
+    "eject": 1042305,
+    "water": 54,
+    "stuck": 57
+   },
+   "holds": 2877956,
+   "void": 0,
+   "every": true,
+   "cells": 196895,
+   "bytes": 1313528
   },
   {
    "map": "0x121",
