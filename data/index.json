@@ -2356,10 +2356,36 @@
    "map_names": [
     "Floor 5"
    ],
-   "tris": 4372,
+   "tris": 1555,
    "opa": "0x1D83",
    "xlu": "0x1D92",
-   "done": false
+   "done": true,
+   "seams": 296,
+   "crack_samples": 25003075503,
+   "crack_floats": 94779224,
+   "spots": 94779224,
+   "shown": 213121,
+   "cats": {
+    "wall": 17719109,
+    "stuck": 9555168,
+    "eject": 37020829,
+    "walk": 29543894,
+    "jump": 651870,
+    "lag": 288354
+   },
+   "cats_flat": {
+    "wall": 15462894,
+    "walk": 29511047,
+    "eject": 37020806,
+    "jump": 557172,
+    "lag": 249900,
+    "stuck": 60905
+   },
+   "holds": 224643,
+   "void": 29367184,
+   "every": true,
+   "cells": 213121,
+   "bytes": 573372
   },
   {
    "map": "0x10F",
