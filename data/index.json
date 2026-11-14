@@ -4117,10 +4117,36 @@
    "map_names": [
     "Inside Digger"
    ],
-   "tris": 2706,
+   "tris": 1438,
    "opa": "0x1DBE",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 515,
+   "crack_samples": 38281768035,
+   "crack_floats": 325192351,
+   "spots": 325192351,
+   "shown": 51058,
+   "cats": {
+    "wall": 22810492,
+    "eject": 77219921,
+    "walk": 22223329,
+    "lag": 6715993,
+    "jump": 25640129,
+    "stuck": 170582487
+   },
+   "cats_flat": {
+    "wall": 12396593,
+    "eject": 16507434,
+    "walk": 832549,
+    "lag": 54216,
+    "jump": 443272,
+    "stuck": 4097750
+   },
+   "holds": 32809327,
+   "void": 467394,
+   "every": true,
+   "cells": 51058,
+   "bytes": 365641
   },
   {
    "map": "0x19A",
