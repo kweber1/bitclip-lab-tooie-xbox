@@ -2480,10 +2480,38 @@
    "map_names": [
     "Basement Waste Disposal"
    ],
-   "tris": 5608,
+   "tris": 2560,
    "opa": "0x1D81",
    "xlu": "0x1D86",
-   "done": false
+   "done": true,
+   "seams": 593,
+   "crack_samples": 58384137840,
+   "crack_floats": 181611276,
+   "spots": 181611276,
+   "shown": 654412,
+   "cats": {
+    "wall": 31047009,
+    "water": 7561633,
+    "walk": 31588741,
+    "eject": 107783860,
+    "lag": 45662,
+    "jump": 386297,
+    "stuck": 3198074
+   },
+   "cats_flat": {
+    "wall": 10779272,
+    "water": 2989916,
+    "walk": 24578972,
+    "eject": 107496221,
+    "lag": 29999,
+    "jump": 106537,
+    "stuck": 31488
+   },
+   "holds": 2843997,
+   "void": 24367369,
+   "every": true,
+   "cells": 654412,
+   "bytes": 2601321
   },
   {
    "map": "0x112",
