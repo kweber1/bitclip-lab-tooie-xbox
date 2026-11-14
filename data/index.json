@@ -3429,10 +3429,36 @@
    "map_names": [
     "Boggy's Igloo"
    ],
-   "tris": 5121,
+   "tris": 1899,
    "opa": "0x1D9D",
    "xlu": "0x1DA8",
-   "done": false
+   "done": true,
+   "seams": 935,
+   "crack_samples": 87666652962,
+   "crack_floats": 549722599,
+   "spots": 549722599,
+   "shown": 525182,
+   "cats": {
+    "wall": 157883984,
+    "walk": 32613896,
+    "eject": 295754530,
+    "lag": 616328,
+    "jump": 15431881,
+    "stuck": 47421980
+   },
+   "cats_flat": {
+    "wall": 98806268,
+    "walk": 25674794,
+    "eject": 199894194,
+    "lag": 327978,
+    "jump": 1284558,
+    "stuck": 1693355
+   },
+   "holds": 51954424,
+   "void": 13280867,
+   "every": true,
+   "cells": 525182,
+   "bytes": 3041000
   },
   {
    "map": "0x132",
