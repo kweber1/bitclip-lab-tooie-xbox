@@ -4218,10 +4218,38 @@
    "map_names": [
     "Quagmire"
    ],
-   "tris": 5154,
+   "tris": 2435,
    "opa": "0x1DCA",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1130,
+   "crack_samples": 134755410818,
+   "crack_floats": 487077045,
+   "spots": 487077045,
+   "shown": 1598452,
+   "cats": {
+    "wall": 1688611,
+    "walk": 20811565,
+    "eject": 350640395,
+    "lag": 598241,
+    "jump": 1900181,
+    "stuck": 110283733,
+    "water": 1154319
+   },
+   "cats_flat": {
+    "wall": 1154897,
+    "walk": 20600568,
+    "eject": 293343774,
+    "lag": 580370,
+    "jump": 1008208,
+    "stuck": 41833,
+    "water": 2788
+   },
+   "holds": 2222497,
+   "void": 14086425,
+   "every": true,
+   "cells": 1598452,
+   "bytes": 7974650
   },
   {
    "map": "0x15D",
