@@ -2153,10 +2153,38 @@
    "map_names": [
     "River Passage"
    ],
-   "tris": 4041,
+   "tris": 1955,
    "opa": "0x1D6C",
    "xlu": "0x1D6D",
-   "done": false
+   "done": true,
+   "seams": 859,
+   "crack_samples": 61802809887,
+   "crack_floats": 343918962,
+   "spots": 343918962,
+   "shown": 870758,
+   "cats": {
+    "wall": 89232511,
+    "stuck": 97197454,
+    "eject": 129186151,
+    "walk": 15814932,
+    "jump": 1401344,
+    "lag": 1219784,
+    "water": 9866786
+   },
+   "cats_flat": {
+    "eject": 3951707,
+    "stuck": 276,
+    "wall": 265260,
+    "walk": 1206946,
+    "lag": 6163,
+    "jump": 25512,
+    "water": 163138
+   },
+   "holds": 1396744,
+   "void": 1202036,
+   "every": true,
+   "cells": 870758,
+   "bytes": 5261797
   },
   {
    "map": "0x118",
