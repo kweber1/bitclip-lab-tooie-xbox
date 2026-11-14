@@ -3428,10 +3428,36 @@
    "map_names": [
     "Wasteland"
    ],
-   "tris": 3437,
+   "tris": 1950,
    "opa": "0x1DC9",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1067,
+   "crack_samples": 71858010007,
+   "crack_floats": 738320523,
+   "spots": 738320523,
+   "shown": 1324689,
+   "cats": {
+    "wall": 231349539,
+    "walk": 91034473,
+    "lag": 5014196,
+    "jump": 10489557,
+    "eject": 276172705,
+    "stuck": 124260053
+   },
+   "cats_flat": {
+    "walk": 1922600,
+    "lag": 19469,
+    "jump": 83898,
+    "eject": 103453553,
+    "stuck": 16350,
+    "wall": 11997
+   },
+   "holds": 3440964,
+   "void": 1937675,
+   "every": true,
+   "cells": 1324689,
+   "bytes": 7704243
   },
   {
    "map": "0x15B",
