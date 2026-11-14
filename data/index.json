@@ -3084,10 +3084,36 @@
    "map_names": [
     "Unga Bunga's Cave"
    ],
-   "tris": 7267,
+   "tris": 3683,
    "opa": "0x1D70",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1183,
+   "crack_samples": 43323228060,
+   "crack_floats": 78973896,
+   "spots": 78973896,
+   "shown": 683444,
+   "cats": {
+    "wall": 34480764,
+    "eject": 39771437,
+    "walk": 1283780,
+    "stuck": 3340804,
+    "jump": 71616,
+    "lag": 25495
+   },
+   "cats_flat": {
+    "wall": 429714,
+    "eject": 2515184,
+    "walk": 1208794,
+    "jump": 54662,
+    "lag": 15948,
+    "stuck": 4484
+   },
+   "holds": 3782,
+   "void": 1181785,
+   "every": true,
+   "cells": 683444,
+   "bytes": 3468442
   },
   {
    "map": "0x11A",
