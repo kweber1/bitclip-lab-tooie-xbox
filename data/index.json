@@ -3970,10 +3970,36 @@
    "map_names": [
     "Plateau"
    ],
-   "tris": 4718,
+   "tris": 2409,
    "opa": "0x1DC4",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1337,
+   "crack_samples": 119436966362,
+   "crack_floats": 498757337,
+   "spots": 498757337,
+   "shown": 2115894,
+   "cats": {
+    "walk": 20968902,
+    "jump": 2888511,
+    "eject": 157662492,
+    "lag": 6361418,
+    "wall": 241854525,
+    "stuck": 69021489
+   },
+   "cats_flat": {
+    "walk": 10744638,
+    "jump": 293987,
+    "eject": 45993396,
+    "lag": 75421,
+    "wall": 1406181,
+    "stuck": 107076
+   },
+   "holds": 11724482,
+   "void": 9157467,
+   "every": true,
+   "cells": 2115894,
+   "bytes": 12103396
   },
   {
    "map": "0x153",
