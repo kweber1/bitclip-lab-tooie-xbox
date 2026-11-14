@@ -3587,10 +3587,36 @@
     "Quiz",
     "Quiz"
    ],
-   "tris": 3140,
+   "tris": 1277,
    "opa": "0x1DBD",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 381,
+   "crack_samples": 38383667539,
+   "crack_floats": 40427715,
+   "spots": 40427715,
+   "shown": 198591,
+   "cats": {
+    "wall": 2417578,
+    "walk": 8131696,
+    "eject": 24758172,
+    "lag": 109681,
+    "stuck": 3794823,
+    "jump": 1215765
+   },
+   "cats_flat": {
+    "wall": 1340830,
+    "walk": 7094031,
+    "eject": 23259479,
+    "lag": 64523,
+    "jump": 293879,
+    "stuck": 53467
+   },
+   "holds": 835830,
+   "void": 7092100,
+   "every": true,
+   "cells": 198591,
+   "bytes": 1090899
   },
   {
    "map": "0x160",
