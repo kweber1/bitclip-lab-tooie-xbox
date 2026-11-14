@@ -2648,10 +2648,36 @@
    "map_names": [
     "Oogle Boogle Cave"
    ],
-   "tris": 5680,
+   "tris": 2772,
    "opa": "0x1D6F",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1038,
+   "crack_samples": 84048132497,
+   "crack_floats": 359456819,
+   "spots": 359456819,
+   "shown": 462309,
+   "cats": {
+    "wall": 30930864,
+    "stuck": 61245365,
+    "jump": 619359,
+    "lag": 160884,
+    "walk": 5917704,
+    "eject": 260582643
+   },
+   "cats_flat": {
+    "wall": 3092313,
+    "eject": 57209512,
+    "walk": 3865466,
+    "jump": 472901,
+    "lag": 87446,
+    "stuck": 7645116
+   },
+   "holds": 1496432,
+   "void": 5503803,
+   "every": true,
+   "cells": 462309,
+   "bytes": 2852333
   },
   {
    "map": "0x116",
