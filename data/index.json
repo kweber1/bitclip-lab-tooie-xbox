@@ -4327,10 +4327,36 @@
    "map_names": [
     "Wooded Hollow"
    ],
-   "tris": 8289,
+   "tris": 3392,
    "opa": "0x1DC2",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 1560,
+   "crack_samples": 85379104979,
+   "crack_floats": 405053492,
+   "spots": 405053492,
+   "shown": 2013047,
+   "cats": {
+    "walk": 17028376,
+    "eject": 265126607,
+    "stuck": 88820307,
+    "jump": 3274964,
+    "lag": 1061440,
+    "wall": 29741798
+   },
+   "cats_flat": {
+    "wall": 721765,
+    "eject": 76712916,
+    "stuck": 127577,
+    "jump": 164422,
+    "lag": 53632,
+    "walk": 10316048
+   },
+   "holds": 7973580,
+   "void": 9999121,
+   "every": true,
+   "cells": 2013047,
+   "bytes": 11414658
   },
   {
    "map": "0x150",
