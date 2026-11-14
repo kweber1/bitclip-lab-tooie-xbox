@@ -1408,10 +1408,36 @@
    "map_names": [
     "Inferno"
    ],
-   "tris": 3578,
+   "tris": 1775,
    "opa": "0x1D3C",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 578,
+   "crack_samples": 77542323572,
+   "crack_floats": 983235172,
+   "spots": 983235172,
+   "shown": 1217133,
+   "cats": {
+    "wall": 26047563,
+    "walk": 102611571,
+    "eject": 800797010,
+    "stuck": 27707599,
+    "lag": 6769184,
+    "jump": 19302245
+   },
+   "cats_flat": {
+    "wall": 16715444,
+    "walk": 101729309,
+    "eject": 761155179,
+    "lag": 6603373,
+    "jump": 18553544,
+    "stuck": 317838
+   },
+   "holds": 6964224,
+   "void": 90666839,
+   "every": true,
+   "cells": 1217133,
+   "bytes": 6833653
   },
   {
    "map": "0xEA",
