@@ -354,10 +354,36 @@
    "map_names": [
     "Kickball Stadium"
    ],
-   "tris": 4154,
+   "tris": 2066,
    "opa": "0x1D0F",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 890,
+   "crack_samples": 63729431997,
+   "crack_floats": 177442024,
+   "spots": 177442024,
+   "shown": 217385,
+   "cats": {
+    "wall": 7419205,
+    "walk": 30613202,
+    "lag": 656133,
+    "jump": 3220527,
+    "eject": 131161907,
+    "stuck": 4371050
+   },
+   "cats_flat": {
+    "wall": 6175492,
+    "walk": 30534796,
+    "lag": 652810,
+    "jump": 2946907,
+    "eject": 129286284,
+    "stuck": 6828
+   },
+   "holds": 725378,
+   "void": 30517032,
+   "every": true,
+   "cells": 217385,
+   "bytes": 867105
   },
   {
    "map": "0xBC",
