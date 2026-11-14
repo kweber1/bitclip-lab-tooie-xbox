@@ -2087,10 +2087,36 @@
    "map_names": [
     "Inside"
    ],
-   "tris": 6129,
+   "tris": 2684,
    "opa": "0x1D77",
    "xlu": "0x1D87",
-   "done": false
+   "done": true,
+   "seams": 687,
+   "crack_samples": 65251268789,
+   "crack_floats": 194448143,
+   "spots": 194448143,
+   "shown": 693780,
+   "cats": {
+    "wall": 19300224,
+    "walk": 34941967,
+    "eject": 118434819,
+    "lag": 1392266,
+    "jump": 6807902,
+    "stuck": 13570965
+   },
+   "cats_flat": {
+    "wall": 12376380,
+    "walk": 33642001,
+    "eject": 97389039,
+    "lag": 280713,
+    "jump": 1026384,
+    "stuck": 49048
+   },
+   "holds": 565802,
+   "void": 29953492,
+   "every": true,
+   "cells": 693780,
+   "bytes": 2628211
   },
   {
    "map": "0x102",
