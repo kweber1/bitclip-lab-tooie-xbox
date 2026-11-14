@@ -1099,10 +1099,38 @@
     "Witchyworld",
     "Saucer Of Peril"
    ],
-   "tris": 12233,
+   "tris": 5673,
    "opa": "0x1D38",
    "xlu": "0x1D44",
-   "done": false
+   "done": true,
+   "seams": 2721,
+   "crack_samples": 173285614901,
+   "crack_floats": 388573020,
+   "spots": 388573020,
+   "shown": 3484150,
+   "cats": {
+    "wall": 164941710,
+    "walk": 14632793,
+    "eject": 85884730,
+    "jump": 9476216,
+    "lag": 523050,
+    "stuck": 113030402,
+    "water": 84119
+   },
+   "cats_flat": {
+    "wall": 5573621,
+    "walk": 9080239,
+    "eject": 20761381,
+    "jump": 228019,
+    "lag": 132210,
+    "stuck": 175044,
+    "water": 84119
+   },
+   "holds": 5565465,
+   "void": 9461808,
+   "every": true,
+   "cells": 3484150,
+   "bytes": 15201921
   },
   {
    "map": "0xD7",
