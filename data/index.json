@@ -4066,10 +4066,38 @@
     "Cloud Cuckooland",
     "Race"
    ],
-   "tris": 12850,
+   "tris": 6059,
    "opa": "0x1DAB",
    "xlu": "0x1DB3",
-   "done": false
+   "done": true,
+   "seams": 3452,
+   "crack_samples": 238051703505,
+   "crack_floats": 10165740418,
+   "spots": 10165740418,
+   "shown": 6631315,
+   "cats": {
+    "wall": 3256244458,
+    "walk": 537242642,
+    "lag": 226437396,
+    "jump": 197178607,
+    "eject": 4182437902,
+    "stuck": 1765617501,
+    "water": 581912
+   },
+   "cats_flat": {
+    "walk": 3497196,
+    "eject": 17690275,
+    "wall": 586292,
+    "lag": 32862,
+    "jump": 59356,
+    "water": 12276,
+    "stuck": 9343
+   },
+   "holds": 13358751,
+   "void": 201467819,
+   "every": true,
+   "cells": 6631315,
+   "bytes": 40683857
   },
   {
    "map": "0x137",
