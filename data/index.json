@@ -1750,10 +1750,38 @@
    "map_names": [
     "Ancient Swimming Baths"
    ],
-   "tris": 5779,
+   "tris": 2664,
    "opa": "0x1D4D",
    "xlu": "0x1D4E",
-   "done": false
+   "done": true,
+   "seams": 798,
+   "crack_samples": 65672590179,
+   "crack_floats": 314433362,
+   "spots": 314433362,
+   "shown": 426962,
+   "cats": {
+    "eject": 256004773,
+    "wall": 6694179,
+    "walk": 2353650,
+    "lag": 88525,
+    "jump": 188407,
+    "stuck": 48234882,
+    "water": 868946
+   },
+   "cats_flat": {
+    "wall": 274657,
+    "walk": 2165646,
+    "lag": 15447,
+    "jump": 60928,
+    "eject": 7586453,
+    "stuck": 26050,
+    "water": 28958
+   },
+   "holds": 3918645,
+   "void": 2166008,
+   "every": true,
+   "cells": 426962,
+   "bytes": 2034261
   },
   {
    "map": "0xF6",
