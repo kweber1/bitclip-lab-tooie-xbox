@@ -2293,10 +2293,35 @@
    "map_names": [
     "Bonfire Caverns"
    ],
-   "tris": 2787,
+   "tris": 1186,
    "opa": "0x1D67",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 387,
+   "crack_samples": 53837789299,
+   "crack_floats": 159443875,
+   "spots": 159443875,
+   "shown": 157123,
+   "cats": {
+    "wall": 904466,
+    "jump": 3188287,
+    "eject": 42613997,
+    "walk": 2875255,
+    "lag": 100049,
+    "stuck": 109761821
+   },
+   "cats_flat": {
+    "wall": 19470,
+    "jump": 79756,
+    "eject": 6410959,
+    "walk": 1192360,
+    "lag": 15865
+   },
+   "holds": 3356914,
+   "void": 2853838,
+   "every": true,
+   "cells": 157123,
+   "bytes": 1004836
   },
   {
    "map": "0x120",
