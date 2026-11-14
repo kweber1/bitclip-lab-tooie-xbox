@@ -4095,10 +4095,36 @@
    "map_names": [
     "Cliff Top"
    ],
-   "tris": 5073,
+   "tris": 2742,
    "opa": "0x1DC8",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 918,
+   "crack_samples": 67005201354,
+   "crack_floats": 293005349,
+   "spots": 293005349,
+   "shown": 921522,
+   "cats": {
+    "walk": 13507811,
+    "lag": 5987161,
+    "jump": 12117311,
+    "stuck": 105488189,
+    "wall": 16683620,
+    "eject": 139221257
+   },
+   "cats_flat": {
+    "wall": 151520,
+    "eject": 15509442,
+    "jump": 18556,
+    "lag": 7059,
+    "walk": 457691,
+    "stuck": 7695
+   },
+   "holds": 3727979,
+   "void": 2475299,
+   "every": true,
+   "cells": 921522,
+   "bytes": 5293038
   },
   {
    "map": "0x15A",
