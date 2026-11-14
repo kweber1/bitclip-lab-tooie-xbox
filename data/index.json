@@ -3690,10 +3690,36 @@
    "map_names": [
     "Kickball Lobby"
    ],
-   "tris": 7777,
+   "tris": 3460,
    "opa": "0x1DA3",
    "xlu": null,
-   "done": false
+   "done": true,
+   "seams": 780,
+   "crack_samples": 73623221105,
+   "crack_floats": 226425003,
+   "spots": 226425003,
+   "shown": 665555,
+   "cats": {
+    "eject": 160726447,
+    "wall": 15044841,
+    "walk": 9494426,
+    "jump": 2603362,
+    "lag": 1649909,
+    "stuck": 36906018
+   },
+   "cats_flat": {
+    "eject": 134335999,
+    "wall": 4135174,
+    "walk": 6271581,
+    "jump": 95761,
+    "lag": 158136,
+    "stuck": 12396981
+   },
+   "holds": 4529347,
+   "void": 507543,
+   "every": true,
+   "cells": 665555,
+   "bytes": 3237739
   },
   {
    "map": "0x12E",
